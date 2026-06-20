@@ -1,16 +1,28 @@
-## Hi there 👋
+# Bonjour 👋
 
-<!--
-**Chris-Ambroise/Chris-Ambroise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis Chris Ambroise Tshibangu.
 
-Here are some ideas to get you started:
+🎓 Préqualification Métiers du Numérique – AFPA Brest  
+💻 Futur Développeur Web & Web Mobile  
+🌱 J'apprends HTML, CSS, JavaScript, WordPress, Git et Linux  
+🚀 En préparation de la formation DWWM AFPA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projets
+
+- Portfolio : https://chris-ambroise.github.io/mon-portfolio/
+- Carnet de Voyages : https://chris-ambroise.github.io/Carnet-Voyages/
+
+## Compétences
+
+- HTML5
+- CSS3
+- JavaScript
+- WordPress / Elementor
+- Linux Ubuntu
+- Git / GitHub
+- VirtualBox
+
+## Contact
+
+- LinkedIn : https://www.linkedin.com/in/chris-ambroise-539343405/
+- GitHub : https://github.com/Chris-Ambroise
