@@ -1,6 +1,6 @@
 # Bonjour 👋
 
-Je suis Chris Ambroise Tshibangu.
+Je suis Chris Ambroise Tshibangu, passionné par le développement web et les technologies numériques.
 
 🎓 Préqualification Métiers du Numérique – AFPA Brest  
 💻 Futur Développeur Web & Web Mobile  
@@ -16,11 +16,13 @@ Je suis Chris Ambroise Tshibangu.
 
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript (bases)
 - WordPress / Elementor
 - Linux Ubuntu
 - Git / GitHub
 - VirtualBox
+- Installation Windows & Ubuntu
+- Réseaux (IP, Ping, diagnostic)
 
 ## Contact
 
